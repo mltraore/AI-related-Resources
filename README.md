@@ -1,9 +1,9 @@
 # AI related Resources
 
-This repository contains resources related to artificial intelligence (AI), machine learning (ML), Data Science (DS),  
-deep learning (DL), natural language processing (NLP), reinforcement learning (RL), and robot operating system (ROS).  
-It also contains programming and math resources based on these different topics as well as a list of tools  
-to visualize data and machine learning model architectures.  
+This repository contains resources related to artificial intelligence (AI), machine learning (ML),  
+Data Science (DS), deep learning (DL), natural language processing (NLP), reinforcement learning (RL),  
+and robot operating system (ROS). It also contains programming and math resources based on these different  
+topics as well as a list of tools to visualize data and machine learning model architectures.  
 
 ## Mathematics
 
