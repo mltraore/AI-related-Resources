@@ -258,5 +258,5 @@ Resource      |  Type
  [SVL Simulator](https://www.svlsimulator.com/docs/) | <lu> <li> Web site 🌎  </li> </ul>
  [Gazebo Tutorials](http://gazebosim.org/tutorials) | <lu> <li> Web site 🌎  </li> </ul>
  [The construct: Gazebo Tutorials](https://www.theconstructsim.com/category/gazebo-tutorials/) | <lu> <li> Web site 🌎  </li> </ul>
-
+ [EFFECTIVE ROBOTICS PROGRAMMING WITH ROS THIRD EDITION](https://drive.google.com/file/d/1_txqaw2CpMH20scUZIAWmZOajBsQukkQ/view) | <lu> <li> Book 📘  </li> </ul>
 </details>
