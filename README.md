@@ -247,7 +247,7 @@ Resource      |  Type
   <summary> 🚗🦾 </summary>
   
  Resource      |  Type
-------------------------- | ---------------
+---------------- | ---------------
  [ROS Wiki: ROS Tutorials](http://wiki.ros.org/ROS/Tutorials) | <lu> <li> Web site 🌎  </li> </ul>
  [Awesome Robot Operating System 2 (ROS 2)](https://fkromer.github.io/awesome-ros2/) |  <lu> <li> Web site 🌎  </li> </ul>
  [The construct: ROS Developers' Course Library](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/) |  <lu> <li> Web site 🌎  </li> </ul>
