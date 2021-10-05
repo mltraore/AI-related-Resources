@@ -157,15 +157,16 @@ Resource                  | Relevance
   
 Resource      |  Type
 ------------------------- | ---------------
-[]() | <lu> <li> Book :blue_book:  </li> </ul>
-[]() | <lu> <li>Videos Series 🎥  </li> </ul>
-[]() | <lu> <li> Videos Series 🎥  </li> </ul>
-[]() | <lu> <li> Videos Series 🎥  </li> </ul>
-[]() | <lu> <li> Web site 🌎  </li> </ul>
-[]() | <lu> <li> Github 🌎  </li> </ul>
-[]() | <lu> <li> Web site 🌎  </li> </ul>
-[]() | <lu> <li> Github 🌎  </li> </ul>
-[]() | <lu> <li> Udemy Course 🌎  </li> </ul>
+[Computer Vision: Algorithms and Applications, 2nd ed.](https://www.dropbox.com/s/8bf4feleifhrvl6/SzeliskiBookDraft_20210930.pdf?dl=0) | <lu> <li> Book :blue_book:  </li> </ul>
+[Introduction to Computer Vision](https://dellaert.github.io/19F-4476/schedule.html) | <lu> <li> Web site 🌎  </li> </ul>
+[CSCI 497P/597P - Introduction to Computer Vision](https://facultyweb.cs.wwu.edu/~wehrwes/courses/csci497p_20s/) | <lu> <li> Web site 🌎  </li> </ul>
+[Introduction to Computer Vision](http://www.cs.cornell.edu/courses/cs5670/2021sp/) | <lu> <li>Web site 🌎 </li> </ul>
+[EECS 504: Foundations of Computer Vision](https://web.eecs.umich.edu/~ahowens/eecs504/w20/) | <lu> <li> Web site 🌎  </li> </ul>  
+[EECS 442: Computer Vision (Fall 2019)](https://web.eecs.umich.edu/~fouhey/teaching/EECS442_F19/schedule.html) | <lu> <li> Web site 🌎  </li> </ul>
+[CS194-26/294-26: Intro to Computer Vision and Computational Photography](https://inst.eecs.berkeley.edu/~cs194-26/fa20/) |<lu> <li> Web site 🌎  </li> </ul>
+[15-463, 15-663, 15-862 Computational Photography, Fall 2021](http://graphics.cs.cmu.edu/courses/15-463/) | <lu> <li> Web site 🌎  </li> </ul>
+[16-385 Computer Vision, Spring 2020](http://www.cs.cmu.edu/~16385/) | <lu> <li> Web site 🌎  </li> </ul>
+  
 </details>
 
 
