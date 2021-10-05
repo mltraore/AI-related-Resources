@@ -150,6 +150,26 @@ Resource                  | Relevance
 
 </details>
 
+
+## Computer Vision
+<details>
+  <summary>🔠</summary>
+  
+Resource      |  Type
+------------------------- | ---------------
+[]() | <lu> <li> Book :blue_book:  </li> </ul>
+[]() | <lu> <li>Videos Series 🎥  </li> </ul>
+[]() | <lu> <li> Videos Series 🎥  </li> </ul>
+[]() | <lu> <li> Videos Series 🎥  </li> </ul>
+[]() | <lu> <li> Web site 🌎  </li> </ul>
+[]() | <lu> <li> Github 🌎  </li> </ul>
+[]() | <lu> <li> Web site 🌎  </li> </ul>
+[]() | <lu> <li> Github 🌎  </li> </ul>
+[]() | <lu> <li> Udemy Course 🌎  </li> </ul>
+</details>
+
+
+
 ## Natural Language Processing
 <details>
   <summary>🔠</summary>
