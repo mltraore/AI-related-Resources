@@ -153,7 +153,7 @@ Resource                  | Relevance
 
 ## Computer Vision
 <details>
-  <summary>🔠</summary>
+  <summary>:eye_speech_bubble:</summary>
   
 Resource      |  Type
 ------------------------- | ---------------
