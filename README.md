@@ -165,7 +165,7 @@ Resource      |  Type
 [EECS 442: Computer Vision (Fall 2019)](https://web.eecs.umich.edu/~fouhey/teaching/EECS442_F19/schedule.html) | <lu> <li> Web site 🌎  </li> </ul>
 [CS194-26/294-26: Intro to Computer Vision and Computational Photography](https://inst.eecs.berkeley.edu/~cs194-26/fa20/) |<lu> <li> Web site 🌎  </li> </ul>
 [15-463, 15-663, 15-862 Computational Photography, Fall 2021](http://graphics.cs.cmu.edu/courses/15-463/) | <lu> <li> Web site 🌎  </li> </ul>
-[16-385 Computer Vision, Spring 2020](http://www.cs.cmu.edu/~16385/) | <lu> <li> Web site 🌎  </li> </ul>
+[16-385 Computer Vision, Spring-2020](http://www.cs.cmu.edu/~16385/) | <lu> <li> Web site 🌎  </li> </ul>
   
 </details>
 
